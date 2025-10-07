@@ -6,12 +6,9 @@ dist/
 build/
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -29,3 +26,4 @@ yarn-error.log*
 *.diff.png
 *.diff.svg
 .vercel
+config.bat
